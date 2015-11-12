@@ -1,0 +1,43 @@
+
+.little-space {
+    margin-top:25px;
+}
+
+.big-space {
+    margin-top:175px;
+}
+
+.space-right {
+    margin-right:15px;
+}
+
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    padding-top: 70px;
+    font-family: 'Satisfy', cursive;
+    background: url("../img/asphalt.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.subtitle {
+    font-size: 28px;
+}
+
+h1 {
+    font-size: 96px;
+}
+
+h3 {
+    font-size: 28px;
+}
